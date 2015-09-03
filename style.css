@@ -1,0 +1,27 @@
+.red {
+  background: #CF000F;
+  color: black;
+  padding: 5px 12px;
+  font-size: 12px;
+}
+.yellow {
+  background: #F7CA18;
+  color: black;
+  padding: 5px 16px;
+  font-size: 12px;
+}
+.orange {
+  background: #1BA39C;
+  color: black;
+  padding: 5px 14px;
+  font-size: 12px;
+}
+.green {
+  background: #26A65B;
+  color: black;
+  padding: 5px 11px;
+  font-size: 12px;
+}
+.position {
+  padding: 1px 90px;
+}
